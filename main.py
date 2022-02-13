@@ -15,4 +15,4 @@ url = pyqrcode.create(s)
 url.svg('test.svg', scale = 15)
 
 # Create and save the png file 
-url.png('test.png', scale = 35) # a good size for filling up a page
+url.png('test.png', scale = 20) # a good size for filling up a page
